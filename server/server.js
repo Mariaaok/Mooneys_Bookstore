@@ -47,7 +47,7 @@ let livros = [
       id: 4,
       titulo: "Crime e Castigo",
       autores: "Fiódor Dostoiévski",
-      isbn: "9788535916522",
+      isbn: "9788535916522",''
       edicao: "1ª",
       ano: "1866",
       editora: "Companhia das Letras",
@@ -113,7 +113,7 @@ let livros = [
       editora: "Editora Ática",
       qtd_paginas: "256",
       link_compra: "https://www.amazon.com.br/dp/8503013274",
-      imagem_capa: "https://cdn.awsli.com.br/300x300/1810/1810043/produto/126678106/7536df098d.jpg"
+      imagem_capa: "https://cdn.awsli.com.br/2500x2500/1754/1754872/produto/321534857/dom-casmurro-1-ymixorc2mi.jpg"
     },
     {
       id: 10,
